@@ -1,0 +1,4 @@
+1- Try to salve the log in a path that does not exist
+2- Try to execute several times the program and check if the lines logs still there
+3- Try to execute several and check if lines will be increment. 
+4- Verify if the description is ok and also the levels 
